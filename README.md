@@ -1,3 +1,3 @@
-Apagar este frase e escrever outra aqui
+Primeiro commit
 
 Esse arquivo é de instruções 
